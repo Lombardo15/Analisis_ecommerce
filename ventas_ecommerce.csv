@@ -1,0 +1,201 @@
+id_venta,fecha,producto,categoria,precio,cantidad,cliente,ciudad
+1,2024-11-21,Smartphone,Dispositivos,717.0,5.0,Cliente_039,Barcelona
+2,2024-12-22,Tablet,Dispositivos,399.0,3.0,Cliente_024,Bilbao
+3,2024-10-24,,,56.0,5.0,Cliente_002,
+4,2024-10-30,Webcam,Accesorios,50.0,4.0,Cliente_021,Madrid
+5,2024-12-15,Cable HDMI,Accesorios,23.0,5.0,Cliente_044,Madrid
+6,2024-11-18,Cable HDMI,Accesorios,29.0,4.0,Cliente_016,Zaragoza
+7,,Teclado,Accesorios,46.0,4.0,Cliente_003,Bilbao
+8,2024-11-20,Tablet,Dispositivos,409.0,1.0,Cliente_039,Barcelona
+9,2024-10-04,Cargador,Accesorios,36.0,2.0,Cliente_009,Barcelona
+10,2024-11-22,Mouse,Accesorios,34.0,4.0,Cliente_047,Sevilla
+11,2024-12-10,Smartphone,Dispositivos,703.0,3.0,Cliente_014,Madrid
+12,2024-11-05,Mouse,Accesorios,22.0,4.0,Cliente_002,Málaga
+13,2024-10-06,Webcam,Accesorios,58.0,4.0,Cliente_029,Zaragoza
+14,2024-10-18,Cable HDMI,Accesorios,13.0,2.0,Cliente_010,Málaga
+15,2024-10-14,,,702.0,4.0,Cliente_040,Bilbao
+16,2024-12-19,Mouse,Accesorios,29.0,-1.0,Cliente_024,Barcelona
+17,2024-12-28,Cargador,Accesorios,37.0,5.0,Cliente_001,Madrid
+18,2024-12-10,Cargador,Accesorios,32.0,,Cliente_044,
+19,2024-12-27,Teclado,Accesorios,51.0,3.0,Cliente_035,Madrid
+20,2024-10-05,Cable HDMI,Accesorios,8.0,2.0,Cliente_041,Sevilla
+21,2024-10-07,Cargador,Accesorios,16.0,4.0,Cliente_034,Madrid
+22,2024-11-17,Tablet,Dispositivos,411.0,5.0,Cliente_035,Sevilla
+23,2024-12-25,Teclado,Accesorios,,3.0,Cliente_037,Zaragoza
+24,2024-12-17,Teclado,Accesorios,35.0,5.0,Cliente_026,Zaragoza
+25,2024-10-14,Tablet,Dispositivos,415.0,1.0,Cliente_001,Zaragoza
+26,2024-12-29,Cable HDMI,Accesorios,29.0,5.0,Cliente_032,Zaragoza
+27,2024-11-21,,,318.0,5.0,Cliente_023,Zaragoza
+28,2024-10-15,Monitor,Computadoras,,3.0,Cliente_022,Sevilla
+29,2024-12-05,Cable HDMI,Accesorios,14.0,1.0,Cliente_006,Sevilla
+30,2024-10-28,Monitor,Computadoras,318.0,3.0,Cliente_028,Madrid
+31,2024-12-01,,,889.0,1.0,Cliente_027,Málaga
+32,2024-12-16,Cargador,Accesorios,11.0,3.0,Cliente_009,Málaga
+33,2024-11-06,Laptop,Computadoras,907.0,2.0,Cliente_044,
+34,2024-12-18,Webcam,Accesorios,72.0,1.0,Cliente_001,Málaga
+35,2024-11-27,Monitor,Computadoras,300.0,2.0,Cliente_003,Madrid
+36,2024-11-25,Laptop,Computadoras,915.0,1.0,Cliente_002,Barcelona
+37,2024-11-23,Tablet,Dispositivos,393.0,1.0,Cliente_001,Valencia
+38,2024-10-02,Auriculares,Audio,80.0,2.0,Cliente_001,Málaga
+39,2024-11-01,Tablet,Dispositivos,392.0,3.0,Cliente_017,Zaragoza
+40,2024-11-07,Smartphone,Dispositivos,693.0,4.0,Cliente_034,Málaga
+41,2024-12-25,Laptop,Computadoras,897.0,4.0,Cliente_006,
+42,2024-10-03,Monitor,Computadoras,316.0,3.0,Cliente_036,Valencia
+43,2024-12-29,Teclado,Accesorios,53.0,,Cliente_032,Zaragoza
+44,2024-11-21,Cargador,Accesorios,9.0,2.0,Cliente_040,Madrid
+45,2024-10-11,Cargador,Accesorios,33.0,2.0,Cliente_023,Zaragoza
+46,2024-11-11,Teclado,Accesorios,41.0,4.0,Cliente_016,Barcelona
+47,2024-11-29,Laptop,Computadoras,890.0,1.0,Cliente_048,Málaga
+48,2024-10-12,Auriculares,Audio,73.0,3.0,Cliente_009,Madrid
+49,2024-10-19,Teclado,Accesorios,54.0,1.0,Cliente_024,Sevilla
+50,2024-12-14,Laptop,Computadoras,,4.0,Cliente_038,
+51,2024-12-23,Teclado,Accesorios,50.0,1.0,Cliente_035,Madrid
+52,2024-10-18,,,16.0,3.0,Cliente_016,Bilbao
+53,2024-11-10,Monitor,Computadoras,289.0,4.0,Cliente_033,Málaga
+54,2024-10-21,Monitor,Computadoras,312.0,,Cliente_017,
+55,2024-11-02,Teclado,Accesorios,56.0,5.0,Cliente_008,Valencia
+56,2024-10-27,Mouse,Accesorios,35.0,1.0,Cliente_028,Zaragoza
+57,2024-12-03,Laptop,Computadoras,893.0,4.0,Cliente_048,Valencia
+58,2024-10-04,Teclado,Accesorios,51.0,1.0,Cliente_044,Sevilla
+59,2024-10-30,Auriculares,Audio,74.0,3.0,Cliente_001,Bilbao
+60,2024-10-24,Laptop,Computadoras,902.0,5.0,Cliente_031,Valencia
+61,2024-11-29,Laptop,Computadoras,908.0,5.0,Cliente_021,
+62,2024-12-26,Laptop,Computadoras,891.0,2.0,Cliente_025,Barcelona
+63,2024-11-23,Cable HDMI,Accesorios,4.0,2.0,Cliente_032,Zaragoza
+64,2024-12-25,Tablet,Dispositivos,390.0,3.0,Cliente_042,Barcelona
+65,2024-12-29,Laptop,Computadoras,,1.0,Cliente_009,Valencia
+66,2024-11-17,Tablet,Dispositivos,417.0,2.0,Cliente_026,Valencia
+67,2024-11-19,Cargador,Accesorios,32.0,5.0,Cliente_007,Madrid
+68,2024-11-05,Monitor,Computadoras,289.0,0.0,Cliente_023,Zaragoza
+69,2024-12-05,Tablet,Dispositivos,410.0,3.0,Cliente_025,Barcelona
+70,2024-12-02,Webcam,Accesorios,,2.0,Cliente_022,Madrid
+71,2024-11-21,Cable HDMI,Accesorios,7.0,3.0,Cliente_037,Madrid
+72,2024-10-08,Auriculares,Audio,96.0,4.0,Cliente_044,Bilbao
+73,2024-12-07,Webcam,Accesorios,61.0,4.0,Cliente_030,Zaragoza
+74,2024-11-24,Smartphone,Dispositivos,708.0,5.0,Cliente_050,Sevilla
+75,2024-10-30,Teclado,Accesorios,51.0,3.0,Cliente_028,Barcelona
+76,2024-11-24,Cable HDMI,Accesorios,6.0,2.0,Cliente_001,Zaragoza
+77,2024-10-09,Auriculares,Audio,69.0,2.0,Cliente_001,Zaragoza
+78,2024-11-03,Webcam,Accesorios,64.0,0.0,Cliente_040,Bilbao
+79,2024-10-01,Tablet,Dispositivos,393.0,5.0,Cliente_003,Sevilla
+80,2024-10-26,Teclado,Accesorios,39.0,1.0,Cliente_001,Málaga
+81,2024-12-08,Laptop,Computadoras,918.0,0.0,Cliente_005,Sevilla
+82,2024-10-16,Cable HDMI,Accesorios,27.0,5.0,Cliente_039,Sevilla
+83,2024-11-02,,,91.0,2.0,Cliente_010,Málaga
+84,2024-12-08,Monitor,Computadoras,290.0,,Cliente_031,Barcelona
+85,2024-10-19,Cable HDMI,Accesorios,2.0,5.0,Cliente_045,Sevilla
+86,2024-10-16,Smartphone,Dispositivos,704.0,2.0,Cliente_049,Sevilla
+87,2024-11-01,Monitor,Computadoras,312.0,4.0,Cliente_050,Valencia
+88,2024-11-02,Laptop,Computadoras,917.0,3.0,Cliente_043,Bilbao
+89,2024-10-12,Teclado,Accesorios,35.0,1.0,Cliente_040,Barcelona
+90,2024-11-12,Mouse,Accesorios,43.0,3.0,Cliente_050,Valencia
+91,2024-12-26,Laptop,Computadoras,914.0,5.0,Cliente_026,Barcelona
+92,2024-12-29,Mouse,Accesorios,33.0,1.0,Cliente_007,Sevilla
+93,2024-11-27,Auriculares,Audio,86.0,5.0,Cliente_011,Bilbao
+94,2024-11-05,Cargador,Accesorios,29.0,5.0,Cliente_036,Barcelona
+95,2024-12-12,Smartphone,Dispositivos,691.0,1.0,Cliente_035,
+96,2024-11-05,Mouse,Accesorios,31.0,5.0,Cliente_001,Madrid
+97,2024-11-24,Tablet,Dispositivos,413.0,3.0,Cliente_041,Málaga
+98,2024-10-17,Laptop,Computadoras,918.0,4.0,Cliente_001,Madrid
+99,2024-12-25,Teclado,Accesorios,51.0,4.0,Cliente_001,Bilbao
+100,2024-10-19,Cargador,Accesorios,15.0,4.0,Cliente_014,Zaragoza
+101,2024-11-21,Teclado,Accesorios,60.0,5.0,Cliente_005,Valencia
+102,2024-10-12,Cargador,Accesorios,28.0,3.0,Cliente_021,Sevilla
+103,2024-11-22,Tablet,Dispositivos,404.0,1.0,Cliente_039,Bilbao
+104,2024-11-22,Cable HDMI,Accesorios,27.0,2.0,Cliente_005,Valencia
+105,2024-12-26,Mouse,Accesorios,,4.0,Cliente_009,Barcelona
+106,2024-11-27,Laptop,Computadoras,917.0,5.0,Cliente_040,Barcelona
+107,2024-10-09,,,,2.0,Cliente_002,Bilbao
+108,2024-10-29,Auriculares,Audio,74.0,3.0,Cliente_008,
+109,2024-12-04,Webcam,Accesorios,68.0,1.0,Cliente_007,Madrid
+110,2024-11-14,Monitor,Computadoras,292.0,4.0,Cliente_031,Valencia
+111,2024-11-30,Webcam,Accesorios,55.0,3.0,Cliente_010,Barcelona
+112,2024-10-19,Tablet,Dispositivos,,3.0,Cliente_045,Bilbao
+113,2024-11-27,Monitor,Computadoras,316.0,5.0,Cliente_041,Zaragoza
+114,2024-10-01,Teclado,Accesorios,47.0,4.0,Cliente_001,Madrid
+115,2024-11-25,Laptop,Computadoras,894.0,5.0,Cliente_006,Barcelona
+116,2024-11-13,Auriculares,Audio,84.0,,Cliente_001,Sevilla
+117,2024-11-05,Teclado,Accesorios,53.0,4.0,Cliente_018,Zaragoza
+118,2024-11-18,Laptop,Computadoras,909.0,3.0,Cliente_016,Zaragoza
+119,2024-11-26,Cable HDMI,Accesorios,17.0,4.0,Cliente_024,Sevilla
+120,2024-10-08,,,,4.0,Cliente_026,
+121,2024-11-27,Mouse,Accesorios,42.0,4.0,Cliente_037,Madrid
+122,2024-12-03,Webcam,Accesorios,65.0,1.0,Cliente_033,Bilbao
+123,2024-12-23,Teclado,Accesorios,63.0,2.0,Cliente_005,Zaragoza
+124,2024-10-25,Mouse,Accesorios,24.0,2.0,Cliente_045,Bilbao
+125,2024-11-02,Webcam,Accesorios,,2.0,Cliente_032,Zaragoza
+126,2024-11-18,Auriculares,Audio,94.0,1.0,Cliente_022,Valencia
+127,2024-10-27,Laptop,Computadoras,901.0,1.0,Cliente_034,Madrid
+128,2024-10-01,Auriculares,Audio,84.0,4.0,Cliente_001,Bilbao
+129,2024-10-05,Webcam,Accesorios,51.0,5.0,Cliente_023,Bilbao
+130,2024-11-22,Auriculares,Audio,,2.0,Cliente_019,Madrid
+131,2024-12-24,Cargador,Accesorios,22.0,1.0,Cliente_045,Bilbao
+132,2024-10-04,Laptop,Computadoras,905.0,2.0,Cliente_028,Zaragoza
+133,2024-12-11,Tablet,Dispositivos,414.0,2.0,Cliente_034,Málaga
+134,2024-10-03,Mouse,Accesorios,26.0,1.0,Cliente_044,Bilbao
+135,2024-11-26,Laptop,Computadoras,904.0,5.0,Cliente_021,Málaga
+136,2024-12-05,Teclado,Accesorios,41.0,4.0,Cliente_034,Málaga
+137,2024-11-19,Mouse,Accesorios,32.0,3.0,Cliente_034,Sevilla
+138,2024-11-07,,,912.0,4.0,Cliente_001,Zaragoza
+139,2024-11-20,Laptop,Computadoras,893.0,5.0,Cliente_004,Barcelona
+140,2024-11-25,Laptop,Computadoras,898.0,1.0,Cliente_020,
+141,,Mouse,Accesorios,20.0,5.0,Cliente_002,Bilbao
+142,2024-11-12,Teclado,Accesorios,49.0,-1.0,Cliente_023,Zaragoza
+143,2024-12-19,Webcam,Accesorios,64.0,4.0,Cliente_040,Sevilla
+144,2024-11-25,Cargador,Accesorios,11.0,3.0,Cliente_027,Bilbao
+145,2024-11-01,Mouse,Accesorios,43.0,2.0,Cliente_019,Bilbao
+146,2024-10-05,Mouse,Accesorios,42.0,2.0,Cliente_022,Bilbao
+147,2024-12-09,Laptop,Computadoras,893.0,1.0,Cliente_012,Barcelona
+148,2024-11-15,Mouse,Accesorios,31.0,2.0,Cliente_045,Valencia
+149,2024-12-12,Cable HDMI,Accesorios,26.0,1.0,Cliente_022,Zaragoza
+150,2024-11-25,Laptop,Computadoras,914.0,4.0,Cliente_001,
+151,2024-11-21,Smartphone,Dispositivos,710.0,2.0,Cliente_028,Zaragoza
+152,2024-12-17,Smartphone,Dispositivos,690.0,,Cliente_026,Málaga
+153,2024-11-28,Smartphone,Dispositivos,707.0,3.0,Cliente_047,Zaragoza
+154,2024-10-18,Cable HDMI,Accesorios,7.0,3.0,Cliente_015,
+155,2024-12-28,Tablet,Dispositivos,393.0,4.0,Cliente_010,Zaragoza
+156,2024-11-26,Laptop,Computadoras,895.0,2.0,Cliente_001,Madrid
+157,2024-10-17,Monitor,Computadoras,313.0,4.0,Cliente_010,Valencia
+158,2024-10-18,Monitor,Computadoras,303.0,2.0,Cliente_047,
+159,2024-11-09,Laptop,Computadoras,900.0,3.0,Cliente_042,Madrid
+160,2024-10-06,Monitor,Computadoras,314.0,2.0,Cliente_045,Málaga
+161,2024-11-02,Auriculares,Audio,90.0,5.0,Cliente_001,Málaga
+162,2024-10-04,Smartphone,Dispositivos,,1.0,Cliente_003,Valencia
+163,2024-10-31,Smartphone,Dispositivos,693.0,4.0,Cliente_024,Zaragoza
+164,2024-10-06,,,34.0,4.0,Cliente_011,Sevilla
+165,2024-12-18,Webcam,Accesorios,70.0,1.0,Cliente_030,
+166,2024-11-20,Cargador,Accesorios,10.0,3.0,Cliente_008,Barcelona
+167,2024-11-20,Auriculares,Audio,74.0,2.0,Cliente_004,Valencia
+168,2024-12-23,Laptop,Computadoras,908.0,1.0,Cliente_012,Zaragoza
+169,2024-10-01,Cable HDMI,Accesorios,15.0,5.0,Cliente_011,Zaragoza
+170,2024-12-16,Teclado,Accesorios,35.0,2.0,Cliente_010,Bilbao
+171,2024-10-23,Cable HDMI,Accesorios,13.0,2.0,Cliente_013,
+172,,Monitor,Computadoras,289.0,5.0,Cliente_009,Madrid
+173,2024-10-09,Smartphone,Dispositivos,694.0,3.0,Cliente_001,Zaragoza
+174,2024-11-18,Auriculares,Audio,98.0,4.0,Cliente_044,Barcelona
+175,2024-12-17,Auriculares,Audio,92.0,3.0,Cliente_009,Barcelona
+176,2024-12-15,Teclado,Accesorios,,1.0,Cliente_001,
+177,,Smartphone,Dispositivos,699.0,1.0,Cliente_037,Málaga
+178,2024-11-29,Teclado,Accesorios,55.0,5.0,Cliente_005,Valencia
+179,2024-12-17,Cable HDMI,Accesorios,31.0,4.0,Cliente_025,Bilbao
+180,2024-11-11,Cargador,Accesorios,26.0,3.0,Cliente_038,Madrid
+181,2024-10-23,Laptop,Computadoras,913.0,1.0,Cliente_033,Zaragoza
+182,2024-12-05,Auriculares,Audio,76.0,3.0,Cliente_001,Valencia
+183,2024-12-09,Webcam,Accesorios,51.0,3.0,Cliente_008,Barcelona
+184,2024-12-03,Monitor,Computadoras,303.0,5.0,Cliente_033,Sevilla
+185,2024-10-27,Monitor,Computadoras,317.0,1.0,Cliente_033,Bilbao
+186,2024-10-27,Tablet,Dispositivos,389.0,4.0,Cliente_022,Barcelona
+187,2024-10-10,Auriculares,Audio,95.0,2.0,Cliente_033,Málaga
+188,2024-11-07,Monitor,Computadoras,,4.0,Cliente_015,Bilbao
+189,2024-10-08,Auriculares,Audio,97.0,,Cliente_012,Bilbao
+190,2024-10-02,Teclado,Accesorios,53.0,4.0,Cliente_036,Barcelona
+191,2024-11-12,Auriculares,Audio,88.0,3.0,Cliente_010,
+192,2024-11-07,Webcam,Accesorios,56.0,2.0,Cliente_001,Valencia
+193,2024-10-12,Cable HDMI,Accesorios,14.0,2.0,Cliente_025,Madrid
+194,2024-11-29,Monitor,Computadoras,304.0,4.0,Cliente_005,
+195,2024-11-06,Smartphone,Dispositivos,698.0,-1.0,Cliente_028,Zaragoza
+196,2024-10-09,Webcam,Accesorios,67.0,5.0,Cliente_014,
+197,2024-11-10,Webcam,Accesorios,59.0,,Cliente_001,Bilbao
+198,2024-10-21,Cable HDMI,Accesorios,15.0,4.0,Cliente_023,Madrid
+199,2024-10-01,Webcam,Accesorios,,3.0,Cliente_040,Zaragoza
+200,2024-10-21,Cargador,Accesorios,29.0,1.0,Cliente_010,Sevilla
