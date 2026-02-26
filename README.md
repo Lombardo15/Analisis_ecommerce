@@ -61,18 +61,18 @@ Limpiar y analizar un dataset de 200 registros de ventas con datos sucios (nulos
 
 ## Tecnologías utilizadas
 
-![Python]
-![Pandas]
-![Matplotlib]
-![Seaborn]
-![Jupyter]
+Python
+Pandas
+Matplotlib
+Seaborn
+Jupyter
 
 ---
 
 ## Cómo ejecutar el proyecto
 
 
-2. Instala las dependencias
+1. Instala las dependencias
 ```bash
 pip install pandas matplotlib seaborn jupyter
 ```
