@@ -8,7 +8,7 @@ El proyecto cubre desde la limpieza del dataset hasta visualizaciones y recomend
 ## Contenido del repositorio
 
 ```
-├── practica1_portfolio.ipynb   # Notebook principal con el análisis completo
+├── analisis_Ecommerce.ipynb   # Notebook principal con el análisis completo
 ├── ventas_ecommerce.csv        # Dataset de ventas
 └── README.md
 ```
